@@ -10,3 +10,5 @@ The mood app allows you to choose the mood you're feeling and then we provide co
 Authors:
 
 Peter, Mark, Melissa 
+
+![screen shot 2017-05-23 at 2 57 29 pm](https://cloud.githubusercontent.com/assets/21225451/26371400/9914a188-3fc8-11e7-9a8b-d64498e90e78.png)
